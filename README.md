@@ -1,6 +1,7 @@
 # Customer_Behavior_Analysis
 
 📊 Data Analytics – Customer Behavior Analysis
+
 🔍 Overview
 This project focuses on analyzing customer behavior using an end-to-end data analytics workflow. It covers data loading, cleaning, exploratory analysis, SQL-based insights, and interactive visualization to support data-driven decision-making.
 
